@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Original Building Construction",
+    "date": "1895-06",
+    "description": "The original structure being built on Linden Street",
+    "category": "history",
+    "url": "https://images.pexels.com/photos/5257527/pexels-photo-5257527.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Early Street View",
+    "date": "1902-03",
+    "description": "View of Linden Street with horse-drawn carriages",
+    "category": "history",
+    "url": "https://images.pexels.com/photos/5836/vintage-old-classic-black-and-white.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Original Storefront",
+    "date": "1910-11",
+    "description": "The original storefront of the 251/253 Linden property",
+    "category": "history",
+    "url": "https://images.pexels.com/photos/14541251/pexels-photo-14541251.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Early Mercantile",
+    "date": "1915-04",
+    "description": "Early mercantile store operating in the building",
+    "category": "history",
+    "url": "https://images.pexels.com/photos/15341397/pexels-photo-15341397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Street Celebration",
+    "date": "1922-07",
+    "description": "Independence Day celebration on Linden Street",
+    "category": "history",
+    "url": "https://images.pexels.com/photos/6755031/pexels-photo-6755031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Depression Era",
+    "date": "1932-09",
+    "description": "The building during the Great Depression",
+    "category": "history",
+    "url": "https://images.pexels.com/photos/3464779/pexels-photo-3464779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Post-War Business",
+    "date": "1947-05",
+    "description": "Business thriving after World War II",
+    "category": "history",
+    "url": "https://images.pexels.com/photos/3961581/pexels-photo-3961581.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Historic Preservation Award",
+    "date": "1985-10",
+    "description": "The building receiving a historic preservation award",
+    "category": "history",
+    "url": "https://images.pexels.com/photos/8108089/pexels-photo-8108089.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Smith & Co. Mercantile",
+    "date": "1895-06",
+    "description": "Original tenant selling general merchandise",
+    "category": "tenants",
+    "url": "https://images.pexels.com/photos/3889724/pexels-photo-3889724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Linden Street Hardware",
+    "date": "1920-04",
+    "description": "Hardware store that operated for three decades",
+    "category": "tenants",
+    "url": "https://images.pexels.com/photos/4792435/pexels-photo-4792435.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Thompson's Books",
+    "date": "1952-09",
+    "description": "Independent bookstore with rare collections",
+    "category": "tenants",
+    "url": "https://images.pexels.com/photos/1370295/pexels-photo-1370295.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Riverside Cafe",
+    "date": "1975-06",
+    "description": "Popular local coffee shop and eatery",
+    "category": "tenants",
+    "url": "https://images.pexels.com/photos/1002740/pexels-photo-1002740.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Frontier Antiques",
+    "date": "1988-11",
+    "description": "Specializing in Western American antiques",
+    "category": "tenants",
+    "url": "https://images.pexels.com/photos/2079438/pexels-photo-2079438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Urban Outfitters",
+    "date": "2006-03",
+    "description": "Contemporary clothing and lifestyle store",
+    "category": "tenants",
+    "url": "https://images.pexels.com/photos/1884582/pexels-photo-1884582.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Craft Brewing Co.",
+    "date": "2012-08",
+    "description": "Local craft brewery and taproom",
+    "category": "tenants",
+    "url": "https://images.pexels.com/photos/1267700/pexels-photo-1267700.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Digital Nomad Workspace",
+    "date": "2018-05",
+    "description": "Modern coworking space for entrepreneurs",
+    "category": "tenants",
+    "url": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  }
+]

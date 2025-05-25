@@ -1,0 +1,50 @@
+[
+  {
+    "startDate": "1895-06",
+    "endDate": "1920-03",
+    "name": "Smith & Co. Mercantile",
+    "description": "Original tenant that sold general merchandise, dry goods, and supplies to the growing Fort Collins community."
+  },
+  {
+    "startDate": "1920-04",
+    "endDate": "1952-08",
+    "name": "Linden Street Hardware",
+    "description": "Hardware store that served local builders and homeowners during Fort Collins' expansion period."
+  },
+  {
+    "startDate": "1952-09",
+    "endDate": "1975-05",
+    "name": "Thompson's Books",
+    "description": "Independent bookstore known for its extensive collection of Western literature and history."
+  },
+  {
+    "startDate": "1975-06",
+    "endDate": "1988-10",
+    "name": "Riverside Cafe",
+    "description": "Popular gathering spot serving coffee, pastries, and light meals to locals and visitors."
+  },
+  {
+    "startDate": "1988-11",
+    "endDate": "2005-01",
+    "name": "Frontier Antiques",
+    "description": "Specialized in Western American antiques, furniture, and collectibles from the 19th and early 20th centuries."
+  },
+  {
+    "startDate": "2006-03",
+    "endDate": "2012-07",
+    "name": "Urban Outfitters",
+    "description": "Contemporary clothing and lifestyle store catering to college students and young professionals."
+  },
+  {
+    "startDate": "2012-08",
+    "endDate": "2018-04",
+    "name": "Craft Brewing Co.",
+    "description": "Local craft brewery and taproom showcasing innovative beers and hosting community events."
+  },
+  {
+    "startDate": "2018-05",
+    "endDate": "",
+    "name": "Digital Nomad Workspace",
+    "description": "Modern coworking space providing flexible work environments for entrepreneurs, freelancers, and remote workers."
+  }
+]

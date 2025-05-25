@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #374151;
+  --secondary: #6B7280;
+  --accent: #F59E0B;
+  --background: #F9FAFB;
+  --surface: #FFFFFF;
+  --text: #1F2937;
+  --text-light: #4B5563;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: var(--text);
+  background-color: var(--background);
+  @apply antialiased;
+}
+
+.modal-backdrop {
+  @apply fixed inset-0 bg-black bg-opacity-80 z-40 backdrop-blur-sm transition-opacity;
+}
+
+.modal-content {
+  @apply fixed inset-0 z-50 flex items-center justify-center;
+}
+
+.gallery-item {
+  @apply relative rounded-lg overflow-hidden bg-gray-200 aspect-square transition-transform hover:shadow-lg;
+}
+
+.gallery-item-info {
+  @apply absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent p-4 text-white;
+}
+
+.nav-link {
+  @apply px-4 py-2 font-medium transition-colors hover:text-[#D97706];
+}
+
+.nav-link.active {
+  @apply border-b-2;
+}
+
+@media (max-width: 768px) {
+  .nav-link.active {
+    @apply border-b-0;
+  }
+}

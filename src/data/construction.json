@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Facade Restoration",
+    "date": "2005-03",
+    "description": "Restoration work on the historical brick facade",
+    "category": "construction",
+    "url": "https://images.pexels.com/photos/2219024/pexels-photo-2219024.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Interior Demolition",
+    "date": "2005-04",
+    "description": "Removing outdated interior structures",
+    "category": "construction",
+    "url": "https://images.pexels.com/photos/6474475/pexels-photo-6474475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Structural Reinforcement",
+    "date": "2005-05",
+    "description": "Adding new support beams to preserve original architecture",
+    "category": "construction",
+    "url": "https://images.pexels.com/photos/8961098/pexels-photo-8961098.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Window Restoration",
+    "date": "2005-06",
+    "description": "Restoring the original storefront windows",
+    "category": "construction",
+    "url": "https://images.pexels.com/photos/273767/pexels-photo-273767.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Electrical Updates",
+    "date": "2005-07",
+    "description": "Modernizing the electrical systems",
+    "category": "construction",
+    "url": "https://images.pexels.com/photos/1388944/pexels-photo-1388944.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "HVAC Installation",
+    "date": "2005-08",
+    "description": "Installing modern climate control systems",
+    "category": "construction",
+    "url": "https://images.pexels.com/photos/4491871/pexels-photo-4491871.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Interior Finishing",
+    "date": "2005-10",
+    "description": "New interior walls and finishes being applied",
+    "category": "construction",
+    "url": "https://images.pexels.com/photos/6908368/pexels-photo-6908368.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "name": "Grand Reopening",
+    "date": "2006-02",
+    "description": "Celebration of the completed restoration",
+    "category": "construction",
+    "url": "https://images.pexels.com/photos/1170686/pexels-photo-1170686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  }
+]
