@@ -9,7 +9,7 @@ const Home: React.FC = () => {
       <section className="relative h-[70vh] md:h-[80vh] overflow-hidden">
         <div className="absolute inset-0">
           <img 
-            src="https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+            src="/images/OldElkHero.jpg" 
             alt="Historic Linden Street Property" 
             className="w-full h-full object-cover"
           />
@@ -42,7 +42,7 @@ const Home: React.FC = () => {
             <NavLink to="/history" className="group">
               <div className="aspect-video rounded-lg overflow-hidden mb-4">
                 <img 
-                  src="https://images.pexels.com/photos/4352144/pexels-photo-4352144.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                  src="/images/History.jpg" 
                   alt="Historic photos" 
                   className="w-full h-full object-cover transition-transform group-hover:scale-105"
                 />
@@ -54,7 +54,7 @@ const Home: React.FC = () => {
             <NavLink to="/construction" className="group">
               <div className="aspect-video rounded-lg overflow-hidden mb-4">
                 <img 
-                  src="https://images.pexels.com/photos/2219024/pexels-photo-2219024.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                  src="/images/Construction.jpg" 
                   alt="Construction" 
                   className="w-full h-full object-cover transition-transform group-hover:scale-105"
                 />
@@ -66,7 +66,7 @@ const Home: React.FC = () => {
             <NavLink to="/tenants" className="group">
               <div className="aspect-video rounded-lg overflow-hidden mb-4">
                 <img 
-                  src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                  src="/images/Tenants.jpg" 
                   alt="Tenants" 
                   className="w-full h-full object-cover transition-transform group-hover:scale-105"
                 />

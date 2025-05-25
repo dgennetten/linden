@@ -8,14 +8,14 @@ const __dirname = path.dirname(__filename);
 
 async function deployToDreamHost() {
   const ftpConfig = {
-    host: 'gennetten.com', // Updated FTP host
+    host: 'lindenstreet.online', // Updated FTP host
     user: 'dgennetten',
     password: 'td!stayAct1ve',
     secure: false, // Set to true if FTPS is required
   };
 
   const localDistPath = path.join(__dirname, 'dist');
-  const remoteBasePath = '/gennetten.com';
+  const remoteBasePath = '/lindenstreet.online';
   const remoteAssetsPath = `${remoteBasePath}/assets`;
 
   // Verify local dist folder exists

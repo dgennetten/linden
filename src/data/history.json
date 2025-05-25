@@ -1,58 +1,107 @@
 [
   {
-    "name": "Original Building Construction",
-    "date": "1895-06",
-    "description": "The original structure being built on Linden Street",
+    "name": "1899 Stover Drug Store",
+    "date": "1899",
+    "description": "Iconic Stover Drug, next door to the 251/253 Linden",
     "category": "history",
-    "url": "https://images.pexels.com/photos/5257527/pexels-photo-5257527.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    "url": "/images/history/1899StoverDrug.jpg"
   },
   {
-    "name": "Early Street View",
-    "date": "1902-03",
-    "description": "View of Linden Street with horse-drawn carriages",
+    "name": "1904 Birds Eye View",
+    "date": "1904",
+    "description": "A birds-eye view of the Old Town area.",
     "category": "history",
-    "url": "https://images.pexels.com/photos/5836/vintage-old-classic-black-and-white.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    "url": "/images/history/1904BirdsEyeView.jpg"
   },
   {
-    "name": "Original Storefront",
-    "date": "1910-11",
-    "description": "The original storefront of the 251/253 Linden property",
+    "name": "1904 Linden Street -- No Cars",
+    "date": "1904",
+    "description": "A view of Old Town -- notice the lack of cars. Present-day Old Town Square in foreground.",
     "category": "history",
-    "url": "https://images.pexels.com/photos/14541251/pexels-photo-14541251.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    "url": "/images/history/1904LindenLookingNorthNoCars.jpg"
   },
   {
-    "name": "Early Mercantile",
-    "date": "1915-04",
+    "name": "1910 Linden Street, looking north",
+    "date": "1910",
+    "description": "A view of Linden Street looking north.",
+    "category": "history",
+    "url": "/images/history/1910LookingNorth.jpg"
+  },
+  {
+    "name": "1914 Semi-Centennial Parade",
+    "date": "1914",
     "description": "Early mercantile store operating in the building",
     "category": "history",
-    "url": "https://images.pexels.com/photos/15341397/pexels-photo-15341397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    "url": "/images/history/1914SemiCentennialParade.jpg"
   },
   {
-    "name": "Street Celebration",
-    "date": "1922-07",
-    "description": "Independence Day celebration on Linden Street",
+    "name": "1914 Bicycle Repair Shop",
+    "date": "1914",
+    "description": "A parade floats in front of the building, which was a bicycle repair shop at the time.",
     "category": "history",
-    "url": "https://images.pexels.com/photos/6755031/pexels-photo-6755031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    "url": "/images/history/1914BicycleRepairOldGrout.jpg"
   },
   {
-    "name": "Depression Era",
-    "date": "1932-09",
-    "description": "The building during the Great Depression",
+    "name": "1920 Frank Stover",
+    "date": "1920",
+    "description": "Frank Stover in front of the Stover Drug Store",
     "category": "history",
-    "url": "https://images.pexels.com/photos/3464779/pexels-photo-3464779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    "url": "/images/history/1920FrankStover.jpg"
   },
   {
-    "name": "Post-War Business",
-    "date": "1947-05",
-    "description": "Business thriving after World War II",
+    "name": "1927 Parade",
+    "date": "1927",
+    "description": "A parade in front of the building",
     "category": "history",
-    "url": "https://images.pexels.com/photos/3961581/pexels-photo-3961581.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    "url": "/images/history/1927Parade.jpg"
   },
   {
-    "name": "Historic Preservation Award",
-    "date": "1985-10",
-    "description": "The building receiving a historic preservation award",
+    "name": "1937 Intersection of Linden and Mountain",
+    "date": "1937",
+    "description": "A view of the intersection of Linden and Mountain streets",
     "category": "history",
-    "url": "https://images.pexels.com/photos/8108089/pexels-photo-8108089.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    "url": "/images/history/1937Intersection.jpg"
+  },
+  {
+    "name": "1956 Linden Street, looking south",
+    "date": "1956",
+    "description": "A view of Linden Street looking south.",
+    "category": "history",
+    "url": "/images/history/1956LindenLookingSouth.jpg"
+  },
+  {
+    "name": "1964 Looking north.",
+    "date": "1956",
+    "description": "A view of Linden Street looking north, during the Centennial Celebration.",
+    "category": "history",
+    "url": "/images/history/1964LookingNorthCentenialCelebration.jpg"
+  },
+  {
+    "name": "1995 Construction",
+    "date": "1995",
+    "description": "Linden Street construction in front of the building.",
+    "category": "history",
+    "url": "/images/history/1995Construction.jpg"
+  },
+  {
+    "name": "1996 For Sale",
+    "date": "1996",
+    "description": "The building was for sale in 1996.",
+    "category": "history",
+    "url": "/images/history/1996ForSale.jpg"
+  },
+  {
+    "name": "1996 Linden Street, 200 block",
+    "date": "1995",
+    "description": "A view of Linden Street in the 200 block, looking north.",
+    "category": "history",
+    "url": "/images/history/1996Linden200block.jpg"
+  },
+  {
+    "name": "Architectural Detail",
+    "date": "2000s",
+    "description": "A view of Linden Street in the 200 block, looking north.",
+    "category": "history",
+    "url": "/images/history/19xxCornice.jpg"
   }
 ]
