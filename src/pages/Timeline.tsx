@@ -14,14 +14,14 @@ const Timeline: React.FC = () => {
     setIsLoading(false);
   }, []);
 
-  const filteredTenants = tenants.filter(tenant => 
+  const filteredTenants = tenants.filter(tenant =>
     tenant.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
     tenant.description.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
   const formatDate = (dateString: string) => {
     if (!dateString) return 'Present';
-    
+
     const [year, month] = dateString.split('-');
     const date = new Date(`${year}-${month}-01`);
     return date.toLocaleDateString('en-US', { year: 'numeric', month: 'short' });
@@ -69,8 +69,7 @@ const Timeline: React.FC = () => {
           <table className="min-w-full bg-white border border-gray-200 rounded-lg overflow-hidden">
             <thead className="bg-gray-50">
               <tr>
-                <th className="py-3 px-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Start Date</th>
-                <th className="py-3 px-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">End Date</th>
+                <th className="py-3 px-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Dates</th> {/* Modified header */}
                 <th className="py-3 px-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
                 <th className="py-3 px-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Description</th>
               </tr>
@@ -78,19 +77,21 @@ const Timeline: React.FC = () => {
             <tbody className="divide-y divide-gray-200">
               {filteredTenants.length > 0 ? (
                 filteredTenants.map((tenant, index) => (
-                  <tr 
+                  <tr
                     key={index}
                     className="hover:bg-gray-50 transition-colors"
                   >
-                    <td className="py-4 px-4 whitespace-nowrap">{formatDate(tenant.startDate)}</td>
-                    <td className="py-4 px-4 whitespace-nowrap">{formatDate(tenant.endDate)}</td>
+                    {/* Combined dates column */}
+                    <td className="py-4 px-4 whitespace-nowrap">
+                      {formatDate(tenant.startDate)} - {formatDate(tenant.endDate)}
+                    </td>
                     <td className="py-4 px-4 font-medium">{tenant.name}</td>
                     <td className="py-4 px-4">{tenant.description}</td>
                   </tr>
                 ))
               ) : (
                 <tr>
-                  <td colSpan={4} className="py-8 text-center text-gray-500">
+                  <td colSpan={3} className="py-8 text-center text-gray-500"> {/* Updated colspan */}
                     No tenants found matching your search criteria.
                   </td>
                 </tr>
