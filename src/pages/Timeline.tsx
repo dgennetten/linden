@@ -69,7 +69,7 @@ const Timeline: React.FC = () => {
           <table className="min-w-full bg-white border border-gray-200 rounded-lg overflow-hidden">
             <thead className="bg-gray-50">
               <tr>
-                <th className="py-3 px-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Dates</th> {/* Modified header */}
+                <th className="py-3 px-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Dates</th>
                 <th className="py-3 px-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
                 <th className="py-3 px-4 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Description</th>
               </tr>
@@ -81,8 +81,20 @@ const Timeline: React.FC = () => {
                     key={index}
                     className="hover:bg-gray-50 transition-colors"
                   >
-                    {/* Combined dates column */}
-                    <td className="py-4 px-4 whitespace-nowrap">
+                    {/*
+                      Removed whitespace-nowrap and added inline style for wordBreak.
+                      For a more robust solution with Tailwind, you might extend your
+                      tailwind.config.js to include a custom utility for word-break,
+                      or ensure a utility like 'break-words' is available if not already.
+                      For direct application, 'break-all' or 'break-word' (if available
+                      through a plugin or custom config) would be alternatives.
+                      However, `white-space: pre-wrap` is often very effective for
+                      preserving spaces while allowing wrapping.
+                    */}
+                    <td
+                      className="py-4 px-4"
+                      style={{ whiteSpace: 'pre-wrap', wordBreak: 'break-word' }} // Added styles here
+                    >
                       {formatDate(tenant.startDate)} - {formatDate(tenant.endDate)}
                     </td>
                     <td className="py-4 px-4 font-medium">{tenant.name}</td>
@@ -91,7 +103,7 @@ const Timeline: React.FC = () => {
                 ))
               ) : (
                 <tr>
-                  <td colSpan={3} className="py-8 text-center text-gray-500"> {/* Updated colspan */}
+                  <td colSpan={3} className="py-8 text-center text-gray-500">
                     No tenants found matching your search criteria.
                   </td>
                 </tr>
