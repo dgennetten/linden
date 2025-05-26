@@ -10,9 +10,9 @@ const About: React.FC = () => {
       <div className="max-w-3xl mx-auto">
         <div className="bg-white rounded-lg shadow-sm overflow-hidden mb-8">
           <img 
-            src="https://images.pexels.com/photos/2079451/pexels-photo-2079451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+            src="/images/history/HistoryCollage.jpg" 
             alt="251/253 Linden Street" 
-            className="w-full h-64 object-cover object-center"
+            className="w-full aspect-[5/4] object-cover object-center" 
           />
           
           <div className="p-6">

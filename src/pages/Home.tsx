@@ -87,7 +87,8 @@ const Home: React.FC = () => {
               <p className="text-gray-600 mb-6">
                 Discover the chronological history of tenants and significant events 
                 related to the 251/253 Linden Street property. Our interactive timeline 
-                provides a fascinating journey through time.
+                provides a fascinating journey through time. Note: Prior to TBD, 253 
+                Linden Street was known as 257 Linden Street.
               </p>
               <NavLink 
                 to="/timeline" 
@@ -98,7 +99,7 @@ const Home: React.FC = () => {
             </div>
             <div className="md:w-1/2">
               <img 
-                src="https://images.pexels.com/photos/159862/art-school-of-athens-raphael-italian-painter-fresco-159862.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="/images/construction/200301-StreetView.jpg" 
                 alt="Timeline" 
                 className="w-full h-auto rounded-lg shadow-lg"
               />

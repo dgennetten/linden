@@ -1,5 +1,23 @@
 [
   {
+    "startDate": "1900-06",
+    "endDate": "1901-06",
+    "name": "Plattner Implement Company",
+    "description": "The Denver branch in Fort Collins of the Plattner Implement Co. 253 Linden. Five Plattner brothers and one sister owned and operated factory and main office of Plattner in Denver, Colorado. They were manufacturers and jobbers of agricultural machinery and supplies. Standing in the doorway is George Plattner."
+  },
+  {
+    "startDate": "1930-01",
+    "endDate": "1931-01",
+    "name": "Square Deal Garage",
+    "description": "Owned by Con Stitzman. dates TBD"
+  },
+  {
+    "startDate": "1936-01",
+    "endDate": "1936-01",
+    "name": "Reliable Auto Service",
+    "description": "Owned by Les Thompson. dates TBD"
+  },
+  {
     "startDate": "1998-01",
     "endDate": "1999-01",
     "name": "Gallery 251, The Garage",
