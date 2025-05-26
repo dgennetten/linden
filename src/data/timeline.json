@@ -1,21 +1,39 @@
 [
   {
-    "startDate": "1900-06",
-    "endDate": "1901-06",
+    "startDate": "1900",
+    "endDate": "1905",
     "name": "Plattner Implement Company",
     "description": "Manufacturers and jobbers of agricultural machinery and supplies. Standing in the doorway is George Plattner."
   },
   {
-    "startDate": "1930-01",
-    "endDate": "1931-01",
+    "startDate": "1910",
+    "endDate": "1915",
+    "name": "<name?> Bicycle Shop",
+    "description": "In several old photos. Dates approximate."
+  },
+  {
+    "startDate": "1930",
+    "endDate": "1931",
     "name": "Square Deal Garage",
     "description": "Owned by Con Stitzman. dates TBD"
   },
   {
-    "startDate": "1936-01",
-    "endDate": "1936-01",
+    "startDate": "1936",
+    "endDate": "1938",
     "name": "Reliable Auto Service",
     "description": "Owned by Les Thompson. dates TBD"
+  },
+  {
+    "startDate": "1964",
+    "endDate": "1966",
+    "name": "Johny Ayres Greasing and Washing",
+    "description": "A local car wash and lube shop. Employeed an 18 year old Joe Cienfuegos, who would go on to own Joes Upholstery, next door."
+  },
+  {
+    "startDate": "1970",
+    "endDate": "1974",
+    "name": "<still cant remember name> Auto Shop, that moved later to Link Lane",
+    "description": "I think the name starts with W"
   },
   {
     "startDate": "1998-01",
@@ -73,7 +91,7 @@
   },
   {
     "startDate": "2018-02",
-    "endDate": "2025-06",
+    "endDate": "2025-05",
     "name": "The Reserve by Old Elk",
     "description": "A local distillery and tasting room."
   }
