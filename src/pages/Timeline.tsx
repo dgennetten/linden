@@ -19,13 +19,25 @@ const Timeline: React.FC = () => {
     tenant.description.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
-  const formatDate = (dateString: string) => {
-    if (!dateString) return 'Present';
+const formatDate = (dateString: string) => {
+  if (!dateString) return 'Present';
 
-    const [year, month] = dateString.split('-');
-    const date = new Date(`${year}-${month}-01`);
-    return date.toLocaleDateString('en-US', { year: 'numeric', month: 'short' });
-  };
+  const [yearStr, monthStr] = dateString.split('-');
+  const year = parseInt(yearStr, 10);
+  // Month is 0-indexed in JavaScript Date, so subtract 1
+  const month = parseInt(monthStr, 10) - 1;
+
+  // Create a new Date object using year, month (0-indexed), and day
+  // This constructs the date in the local timezone, avoiding UTC conversion issues.
+  const date = new Date(year, month, 1);
+
+  // You can still add the check for invalid dates, though parsing by numbers is usually safer
+  if (isNaN(date.getTime())) {
+    return dateString; // Fallback if parsing somehow fails
+  }
+
+  return date.toLocaleDateString('en-US', { year: 'numeric', month: 'short' });
+};
 
   return (
     <div className="container mx-auto px-4 py-8 mb-16 md:mb-0">
