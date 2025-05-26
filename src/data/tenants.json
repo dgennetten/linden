@@ -42,14 +42,42 @@
     "url": "/images/tenants/20050126-ToddsGuitars4.jpg"
   },
   {
-    "name": "Father & Son Art Exhibit -- May 1, 2006",
-    "date": "2006-05",
-    "description": "A one-day art exhibit featuring the work of Darren Gennetten and his father, Douglas Gennetten.",
+    "name": "Beaudin Ganze Consulting Engineers",
+    "date": "2005-05",
+    "description": "A local engineering firm specializing in lighting and electrical design and consulting. They were the first and only tenant to occupy the top floor after reconstruction.",
     "category": "tenants",
-    "url": "/images/tenants/200605FatherSon1.jpg"
+    "url": "/images/tenants/200505-BeaudinGanze1.jpg"
   },
   {
-    "name": "untitled - Wood, Abstract Figurative, Darren Gennetten",
+    "name": "Beaudin Ganze Consulting Engineers",
+    "date": "2005-05",
+    "description": "A local engineering firm specializing in lighting and electrical design and consulting. They were the first and only tenant to occupy the top floor after reconstruction.",
+    "category": "tenants",
+    "url": "/images/tenants/200501-BeaudinGanze2.jpg"
+  },
+  {
+    "name": "Beaudin Ganze Consulting Engineers",
+    "date": "2005-05",
+    "description": "A local engineering firm specializing in lighting and electrical design and consulting. They were the first and only tenant to occupy the top floor after reconstruction.",
+    "category": "tenants",
+    "url": "/images/tenants/200501-BeaudinGanze3.jpg"
+  },
+  {
+    "name": "Beaudin Ganze Consulting Engineers",
+    "date": "2005-05",
+    "description": "A local engineering firm specializing in lighting and electrical design and consulting. They were the first and only tenant to occupy the top floor after reconstruction.",
+    "category": "tenants",
+    "url": "/images/tenants/200501-BeaudinGanze4.jpg"
+  },
+  {
+    "name": "Beaudin Ganze Consulting Engineers",
+    "date": "2005-05",
+    "description": "A local engineering firm specializing in lighting and electrical design and consulting. They were the first and only tenant to occupy the top floor after reconstruction.",
+    "category": "tenants",
+    "url": "/images/tenants/200501-BeaudinGanze5.jpg"
+  },
+  {
+    "name": "One Day Father and Son Art Exhibit, Abstract Figurative Wood Sculpture, Darren Gennetten",
     "date": "2006-05",
     "description": "Abstract figurative wood sculpture by Darren Gennetten. from his Chicago Art School days.",
     "category": "tenants",
@@ -58,7 +86,7 @@
   {
     "name": "Several works: Typeface design, Darren. Guache eye, Douglas",
     "date": "2006-05",
-    "description": "",
+    "description": "One Day, Father and Son Art Exhibit.",
     "category": "tenants",
     "url": "/images/tenants/200605-FatherSon2.jpg"
   },
@@ -96,6 +124,106 @@
     "description": "Tired Artist; Proud Mom",
     "category": "tenants",
     "url": "/images/tenants/200605-FatherSon7.jpg"
+  },
+  {
+    "name": "Walnut Street Art Gallery (on Linden Street)",
+    "date": "2006-05",
+    "description": "A local art gallery showcasing Rock and Roll art.",
+    "category": "tenants",
+    "url": "/images/tenants/200609-WalnutStreet1.jpg"
+  },
+  {
+    "name": "Walnut Street Art Gallery (on Linden Street)",
+    "date": "2006-05",
+    "description": "A local art gallery showcasing Rock and Roll art.",
+    "category": "tenants",
+    "url": "/images/tenants/200609-WalnutStreet2.jpg"
+  },
+  {
+    "name": "Walnut Street Art Gallery (on Linden Street)",
+    "date": "2006-05",
+    "description": "A local art gallery showcasing Rock and Roll art.",
+    "category": "tenants",
+    "url": "/images/tenants/200609-WalnutStreet3.jpg"
+  },
+  {
+    "name": "Walnut Street Art Gallery (on Linden Street)",
+    "date": "2006-05",
+    "description": "A local art gallery showcasing Rock and Roll art.",
+    "category": "tenants",
+    "url": "/images/tenants/200609-WalnutStreet4.jpg"
+  },
+  {
+    "name": "Walnut Street Art Gallery (on Linden Street)",
+    "date": "2006-05",
+    "description": "For many years, this gentleman was sort of an Old Town mascot.",
+    "category": "tenants",
+    "url": "/images/tenants/200609-WalnutStreet5.jpg"
+  },
+  {
+    "name": "Luscious Nectar - License Application",
+    "date": "2009-09",
+    "description": "A significant tourning point in the history of the building, from this point forward, the building was occupied by a series of tenants that were bars or restaurants.",
+    "category": "tenants",
+    "url": "/images/tenants/200909-LusciousNectar0.jpg"
+  },
+  {
+    "name": "Luscious Nectar - A Juice Lounge",
+    "date": "2009-12",
+    "description": "A local juice bar specializing in vodka-infused smoothies.",
+    "category": "tenants",
+    "url": "/images/tenants/200912-LusciousNectar1.jpg"
+  },
+  {
+    "name": "Luscious Nectar - A Juice Lounge",
+    "date": "2009-12",
+    "description": "A local juice bar specializing in vodka-infused smoothies.",
+    "category": "tenants",
+    "url": "/images/tenants/201310-LusciousNectar2.jpg"
+  },
+  {
+    "name": "Luscious Nectar - A Juice Lounge",
+    "date": "2009-12",
+    "description": "A local juice bar specializing in vodka-infused smoothies.",
+    "category": "tenants",
+    "url": "/images/tenants/200912-LusciousNectar3.jpg"
+  },
+  {
+    "name": "Luscious Nectar - A Juice Lounge",
+    "date": "2009-12",
+    "description": "A local juice bar specializing in vodka-infused smoothies.",
+    "category": "tenants",
+    "url": "/images/tenants/201304-LusciousNectar4.jpg"
+  },
+  {
+    "name": "Old Town Distilling",
+    "date": "2015-06",
+    "description": "An evolution of Luscious Nectar, Old Town Distilling was a local distillery and tasting room.",
+    "category": "tenants",
+    "url": "/images/tenants/2015-OldTownDistilling0.jpg"
+  },
+  {
+    "name": "Old Town Distilling",
+    "date": "2015-06",
+    "description": "An evolution of Luscious Nectar, Old Town Distilling was a local distillery and tasting room.",
+    "category": "tenants",
+    "url": "/images/tenants/201506-OldTownDistilling1.jpg"
+  },
+  {
+    "name": "The Poudre Keg",
+    "date": "2016-08",
+    "description": "A brewpub featuring a rotating selection of local beers and a menu of gourmet pub food.",
+    "category": "tenants",
+    "url": "/images/tenants/201608-PoudreKeg1.jpg"
+  },
+  {
+    "name": "The Reserve by Old Elk",
+    "date": "2025",
+    "description": "Tasting Room for Old Elk Distillery, founded by the owners of Otterbox",
+    "category": "tenants",
+    "url": "/images/tenants/2025-OldElk1.jpg"
   }
+
+
 ] 
 

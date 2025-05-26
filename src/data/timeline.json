@@ -30,6 +30,12 @@
     "description": "By far the most stunningly beautiful tentant experience. Todd briefly expanded from his still-extant Longmont Colorado store."
   },
   {
+    "startDate": "2005-06",
+    "endDate": "",
+    "name": "Baudin Ganze Consulting Engineers",
+    "description": "A local engineering firm specializing in lighting and electrical design and consulting. They were the first and only tenant to occupy the top floor after reconstruction."
+  },
+  {
     "startDate": "2006-05",
     "endDate": "2006-05",
     "name": "May 1, 2006. Father & Son Art Exhibit",
@@ -43,12 +49,12 @@
   },
   {
     "startDate": "2009-11",
-    "endDate": "2012-11",
+    "endDate": "2013-12",
     "name": "Luscious Nectar",
     "description": "A local juice bar specializing in vodka-infused smoothies."
   },
   {
-    "startDate": "2012-11",
+    "startDate": "2014-01",
     "endDate": "2015-11",
     "name": "Old Town Distilling",
     "description": "An evoluton of Luscious Nectar, Old Town Distilling was a local distillery and tasting room."
