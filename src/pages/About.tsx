@@ -18,7 +18,8 @@ const About: React.FC = () => {
           <div className="p-6">
             <h2 className="text-2xl font-bold mb-4">Property History</h2>
             <p className="text-gray-700 mb-4">
-              The historic property at 251/253 Linden Street stands as one of Fort Collins' significant 
+              With federal, state, and local historic landmark designations, this property at 251/253 Linden Street 
+              stands as one of Fort Collins' significant 
               architectural treasures. Built in the late 19th century, this structure has witnessed the transformation 
               of Fort Collins from a small military outpost to a thriving modern city.
             </p>
