@@ -1,12 +1,61 @@
 [
   {
     "name": "Gallery 251, The Garage",
+    "date": "1997-12",
+    "description": "Tenant #1! This was the sign that hung in the window. Special thanks to artist Chris Nelson for the photos!",
+    "category": "tenants",
+    "url": "/images/tenants/19971219-Gallery251.jpg"
+  },
+  {
+    "name": "Gallery 251, The Garage",
+    "date": "1998-12",
+    "description": "It was a bit rough, but nothing was stopping these CSU art students from haveing their vision become a reality!",
+    "category": "tenants",
+    "url": "/images/tenants/199712-Gallery251-2.jpg"
+  },
+  {
+    "name": "Gallery 251, The Garage",
+    "date": "1998-12",
+    "description": "Hanging the picture rail.",
+    "category": "tenants",
+    "url": "/images/tenants/199712-Gallery251-1.jpg"
+  },
+  {
+    "name": "Gallery 251, The Garage",
+    "date": "1997-12",
+    "description": "Sign hung! Posters up! Ready for traffic!",
+    "category": "tenants",
+    "url": "/images/tenants/199712-Gallery251-3.jpg"
+  },
+  {
+    "name": "Gallery 251, The Garage",
+    "date": "1997-DEC-19",
+    "description": "Opening Night! December 19, 1997.",
+    "category": "tenants",
+    "url": "/images/tenants/19971219-Gallery251-3.jpg"
+  },
+  {
+    "name": "Gallery 251, The Garage",
     "date": "1998-NOV-29",
     "description": "A very creative group of CSU art students were my first tenant. They had a drive-through art gallery written up in the San Francisco Chronicle",
     "category": "tenants",
     "url": "/images/tenants/19981129-Gallery251.jpg"
   },
   {
+    "name": "Gallery 251, The Garage",
+    "date": "1997-DEC-19",
+    "description": "Industrial Promo work by artist Jeff Hess",
+    "category": "tenants",
+    "url": "/images/tenants/199712-Gallery251-4.jpg"
+  },
+  {
+    "name": "Gallery 251, The Garage",
+    "date": "1997-DEC-19",
+    "description": "A brief history statement written by Jeff Hess.",
+    "category": "tenants",
+    "url": "/images/tenants/199712-Gallery251-5.jpg"
+  },
+ {
     "name": "Todd's Guitars",
     "date": "2003-03",
     "description": "Acoustic and electric guitars, amps, and accessories. Todd briefly expanded from his still-extant Longmont Colorado store (Now Guitars, etc.)",
@@ -119,13 +168,6 @@
     "url": "/images/tenants/200605-FatherSon6.jpg"
   },
   {
-    "name": "And that's a wrap!",
-    "date": "2006-05",
-    "description": "Tired Artist; Proud Mom",
-    "category": "tenants",
-    "url": "/images/tenants/200605-FatherSon7.jpg"
-  },
-  {
     "name": "Walnut Street Art Gallery (on Linden Street)",
     "date": "2006-05",
     "description": "A local art gallery showcasing Rock and Roll art.",
@@ -210,6 +252,13 @@
     "url": "/images/tenants/201506-OldTownDistilling1.jpg"
   },
   {
+    "name": "Old Town Distilling",
+    "date": "2015-06",
+    "description": "An evolution of Luscious Nectar, Old Town Distilling was a local distillery and tasting room.",
+    "category": "tenants",
+    "url": "/images/tenants/201506-OldTownDistilling2.jpg"
+  },
+  {
     "name": "The Poudre Keg",
     "date": "2016-08",
     "description": "A brewpub featuring a rotating selection of local beers and a menu of gourmet pub food.",
@@ -217,6 +266,41 @@
     "url": "/images/tenants/201608-PoudreKeg1.jpg"
   },
   {
+    "name": "Wasted Space",
+    "date": "2018",
+    "description": "A new slushie bar and arcade.",
+    "category": "tenants",
+    "url": "/images/tenants/2018-WastedSpace0.jpg"
+  },
+  {
+    "name": "Wasted Space",
+    "date": "2018",
+    "description": "A new slushie bar and arcade.",
+    "category": "tenants",
+    "url": "/images/tenants/2018-WastedSpace1.jpg"
+  },
+  {
+    "name": "Wasted Space",
+    "date": "2018",
+    "description": "A new slushie bar and arcade.",
+    "category": "tenants",
+    "url": "/images/tenants/2018-WastedSpace2.jpg"
+  },
+  {
+    "name": "Wasted Space",
+    "date": "2018",
+    "description": "A new slushie bar and arcade.",
+    "category": "tenants",
+    "url": "/images/tenants/2018-WastedSpace3.jpg"
+  },
+  {
+    "name": "Wasted Space",
+    "date": "2018",
+    "description": "A new slushie bar and arcade.",
+    "category": "tenants",
+    "url": "/images/tenants/2018-WastedSpace4.jpg"
+  },
+ { 
     "name": "The Reserve by Old Elk",
     "date": "2025",
     "description": "Tasting Room for Old Elk Distillery, founded by the owners of Otterbox",
