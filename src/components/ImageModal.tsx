@@ -89,7 +89,7 @@ const ImageModal: React.FC<ImageModalProps> = ({
             <img 
               src={currentPhoto.url} 
               alt={currentPhoto.name} 
-              className="max-w-full max-h-[90vh] object-contain !h-auto !w-auto" 
+              className="max-w-full max-h-[80vh] object-contain !h-auto !w-auto" 
             />
           </div>
           
