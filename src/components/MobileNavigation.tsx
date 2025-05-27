@@ -34,7 +34,7 @@ const MobileNavigation: React.FC = () => {
           }
         >
           <HardHat size={20} />
-          <span className="text-xs mt-1">Construction</span>
+          <span className="text-xs mt-1">Restoration</span>
         </NavLink>
         
         <NavLink 

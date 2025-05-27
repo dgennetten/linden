@@ -36,9 +36,9 @@ const Construction: React.FC = () => {
   return (
     <div className="container mx-auto px-4 py-8 mb-16 md:mb-0">
       <header className="mb-8 text-center">
-        <h1 className="text-3xl md:text-4xl font-bold mb-4">Construction Gallery</h1>
+        <h1 className="text-3xl md:text-4xl font-bold mb-4">Restoration Gallery [TBD]</h1>
         <p className="text-gray-600 max-w-2xl mx-auto">
-          Witness the transformation and construction process of the historic 251/253 Linden Street property.
+          Witness the transformation and restoration process of the historic 251/253 Linden Street property.
         </p>
       </header>
 
