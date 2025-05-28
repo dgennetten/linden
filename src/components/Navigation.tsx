@@ -35,7 +35,7 @@ const Navigation: React.FC = () => {
               `nav-link ${isActive ? 'active' : ''}`
             }
           >
-            Construction
+            Restoration
           </NavLink>
           <NavLink 
             to="/tenants" 
