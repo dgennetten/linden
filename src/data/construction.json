@@ -2,7 +2,7 @@
   {
     "name": "Before Restoration - Auto Repair Garage Door",
     "date": "1998-DEC-01",
-    "description": "Around the turn of the century, the Victorian storefront was replace with a garage door",
+    "description": "Around the turn of the century, the Victorian storefront was replace with a garage door used by many auto related business until the 80s",
     "category": "construction",
     "url": "/images/construction/19981201-ExistingConditions1.jpg"
   },
@@ -11,6 +11,34 @@
     "date": "1998-NOV-29",
     "description": "The original historic back doors were still in place before restoration began.",
     "category": "construction",
-    "url": "/images/construction/19981129-ExistingConditions2.jpg"
+    "url": "/images/construction/19981129-ExistingCondtions2.jpg"
+  },
+  {
+    "name": "Before Restoration - Long abandoned upstairs one-room apartments",
+    "date": "1998-DEC-24",
+    "description": "Seven original law offices were converted into one-room apartments in the 1930s. They were long abandoned by the time restoration began.",
+    "category": "construction",
+    "url": "/images/construction/19991224-ExistingConditions3.jpg"
+  },
+  {
+    "name": "Before Restoration - Sagging floor; stuck doors.",
+    "date": "1998-DEC-01",
+    "description": "The floors were sagging badly (no wonder, engine blocks were stored upstairs)",
+    "category": "construction",
+    "url": "/images/construction/19981201-ExistingConditions4.jpg"
+  },
+  {
+    "name": "Before Restoration - Each apartment had its own cooking/heating stove.",
+    "date": "2000-OCT-29",
+    "description": "Each of the seven apartments had its own cooking/heating stove, which was removed during restoration.",
+    "category": "construction",
+    "url": "/images/construction/20001029-ExistingConditions5.jpg"
+  },
+  {
+    "name": "Before Restoration - All seven apartments shared one central bath.",
+    "date": "2000-JAN-29",
+    "description": "Each of the seven apartments had its own cooking/heating stove, which was removed during restoration.",
+    "category": "construction",
+    "url": "/images/construction/20001029-ExistingConditions6.jpg"
   }
 ]
