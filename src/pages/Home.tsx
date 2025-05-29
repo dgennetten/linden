@@ -59,8 +59,8 @@ const Home: React.FC = () => {
                   className="w-full h-full object-cover transition-transform group-hover:scale-105"
                 />
               </div>
-              <h3 className="text-xl font-semibold mb-2 group-hover:text-accent transition-colors">Construction Journey</h3>
-              <p className="text-gray-600">Witness the transformation and construction process of this historic property.</p>
+              <h3 className="text-xl font-semibold mb-2 group-hover:text-accent transition-colors">Restoration Journey</h3>
+              <p className="text-gray-600">Witness the transformation and restoration process of this historic property.</p>
             </NavLink>
             
             <NavLink to="/tenants" className="group">
