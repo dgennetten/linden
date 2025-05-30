@@ -339,6 +339,7 @@
     "name": "The Reserve by Old Elk",
     "date": "2025-05",
     "description": "Tasting Room for Old Elk Distillery, founded by the owners of Otterbox",
+
     "category": "tenants",
     "url": "/images/tenants/20250508-OldElk3.jpg"
   },
@@ -355,9 +356,34 @@
     "description": "Tasting Room for Old Elk Distillery, founded by the owners of Otterbox",
     "category": "tenants",
     "url": "/images/tenants/20250508-OldElk5.jpg"
+  },
+  {
+    "name": "Cleaning Up!",
+    "date": "2025-05-30",
+    "description": "Getting Ready for the Next Chapter in this lovely old gem",
+    "category": "tenants",
+    "url": "/images/tenants/GettingReady1.jpg"
+  },
+  {
+    "name": "Cleaning Up!",
+    "date": "2025-05-30",
+    "description": "Getting Ready for the Next Chapter in this lovely old gem",
+    "category": "tenants",
+    "url": "/images/tenants/GettingReady2.jpg"
+  },
+  {
+    "name": "Cleaning Up!",
+    "date": "2025-05-30",
+    "description": "Getting Ready for the Next Chapter in this lovely old gem",
+    "category": "tenants",
+    "url": "/images/tenants/GettingReady3.jpg"
+  },
+  {
+    "name": "Cleaning Up!",
+    "date": "2025-05-30",
+    "description": "Getting Ready for the Next Chapter in this lovely old gem",
+    "category": "tenants",
+    "url": "/images/tenants/WhoseNext.jpg"
   }
-
-
-
 ] 
 
