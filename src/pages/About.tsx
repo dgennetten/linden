@@ -73,7 +73,10 @@ const About: React.FC = () => {
               In 1999, a major renovation project carefully restored the building's exterior to its original 
               appearance based on historical photographs and architectural research. Interior modernizations 
               were sensitively implemented to accommodate contemporary businesses while preserving original 
-              architectural elements whenever possible.
+              architectural elements whenever possible. The 2001 Friend of Preservation Award was obtained for this work.
+              Established in 1985, the Friend of Preservation awards are the highest preservation honor given by the Historic 
+              Preservation Commission. Annually, the awards are given to people, organizations, or projects for 
+              exemplary work in local history, preservation, rehabilitation, restoration or reconstruction.
             </p>
             <p className="text-gray-700">
               Today, the property stands as a testament to successful historic preservation, demonstrating how 
