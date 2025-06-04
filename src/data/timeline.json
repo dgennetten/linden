@@ -60,6 +60,12 @@
     "description": "A local car wash and lube shop (seems to have bounced between 247 and 253 Linden). Employeed an 18 year old Joe Cienfuegos, who would go on to own Joes Upholstery, next door."
   },
   {
+    "startDate": "1940",
+    "endDate": "1908",
+    "name": "Snappy Service Garage",
+    "description": "Listed in the 1940 city directory as a garage."
+  },
+  {
     "startDate": "1959",
     "endDate": "1969",
     "name": "Summers Auto Repair. ",
