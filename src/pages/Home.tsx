@@ -8,9 +8,9 @@ const Home: React.FC = () => {
       {/* Hero Section */}
       <section className="relative h-[70vh] md:h-[80vh] overflow-hidden">
         <div className="absolute inset-0">
-          <img 
-            src="/images/OldElkHero.jpg" 
-            alt="Historic Linden Street Property" 
+          <img
+            src="/images/OldElkHero.jpg"
+            alt="Historic Linden Street Property"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-black/10"></div>
@@ -23,12 +23,20 @@ const Home: React.FC = () => {
             <p className="text-xl md:text-2xl text-white/90 max-w-2xl mb-8">
               Discover the rich history of this iconic Fort Collins property
             </p>
-            <NavLink 
-              to="/history" 
-              className="inline-flex items-center gap-2 bg-white text-gray-900 px-6 py-3 rounded-lg font-medium hover:bg-gray-100 transition-colors"
-            >
-              Explore History <ArrowRight size={20} />
-            </NavLink>
+            <div className="flex flex-wrap gap-4 w-fit">
+              <NavLink
+                to="/history"
+                className="inline-flex items-center gap-2 bg-white text-gray-900 px-6 py-3 rounded-lg font-medium hover:bg-gray-100 transition-colors"
+              >
+                Explore History <ArrowRight size={20} />
+              </NavLink>
+              <NavLink
+                to="/tenants"
+                className="inline-flex items-center gap-2 bg-white text-gray-900 px-6 py-3 rounded-lg font-medium hover:bg-gray-100 transition-colors"
+              >
+                Explore Tenants <ArrowRight size={20} />
+              </NavLink>
+            </div>
           </div>
         </div>
       </section>
@@ -37,37 +45,37 @@ const Home: React.FC = () => {
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold mb-12 text-center">Explore the Property</h2>
-          
+
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <NavLink to="/history" className="group">
               <div className="aspect-video rounded-lg overflow-hidden mb-4">
-                <img 
-                  src="/images/History.jpg" 
-                  alt="Historic photos" 
+                <img
+                  src="/images/History.jpg"
+                  alt="Historic photos"
                   className="w-full h-full object-cover transition-transform group-hover:scale-105"
                 />
               </div>
               <h3 className="text-xl font-semibold mb-2 group-hover:text-accent transition-colors">Historic Gallery</h3>
               <p className="text-gray-600">Explore the rich history through a collection of historical photographs.</p>
             </NavLink>
-            
+
             <NavLink to="/construction" className="group">
               <div className="aspect-video rounded-lg overflow-hidden mb-4">
-                <img 
-                  src="/images/Construction.jpg" 
-                  alt="Construction" 
+                <img
+                  src="/images/Construction.jpg"
+                  alt="Construction"
                   className="w-full h-full object-cover transition-transform group-hover:scale-105"
                 />
               </div>
               <h3 className="text-xl font-semibold mb-2 group-hover:text-accent transition-colors">Restoration Journey</h3>
               <p className="text-gray-600">Witness the transformation and restoration process of this historic property.</p>
             </NavLink>
-            
+
             <NavLink to="/tenants" className="group">
               <div className="aspect-video rounded-lg overflow-hidden mb-4">
-                <img 
-                  src="/images/Tenants.jpg" 
-                  alt="Tenants" 
+                <img
+                  src="/images/Tenants.jpg"
+                  alt="Tenants"
                   className="w-full h-full object-cover transition-transform group-hover:scale-105"
                 />
               </div>
@@ -77,30 +85,29 @@ const Home: React.FC = () => {
           </div>
         </div>
       </section>
-      
+
       {/* Timeline Teaser */}
       <section className="py-16 bg-gray-50">
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row items-center gap-8">
             <div className="md:w-1/2">
-              <h2 className="text-3xl font-bold mb-4">Explore Our Timeline</h2>
+              <h2 className="text-3xl font-bold mb-4">Explore Historic Timeline</h2>
               <p className="text-gray-600 mb-6">
-                Discover the chronological history of tenants and significant events 
-                related to the 251/253 Linden Street property. Our timeline 
-                provides a fascinating journey through time. Note: Prior to (TBD), 253 
-                Linden Street was known as 257 Linden Street.
+                Discover the chronological history of tenants and significant events
+                related to the 251/253 Linden Street property. Our timeline
+                provides a fascinating journey through time.
               </p>
-              <NavLink 
-                to="/timeline" 
+              <NavLink
+                to="/timeline"
                 className="inline-flex items-center gap-2 text-accent font-medium hover:underline"
               >
                 View Timeline <ArrowRight size={18} />
               </NavLink>
             </div>
             <div className="md:w-1/2">
-              <img 
-                src="/images/construction/200301-StreetView.jpg" 
-                alt="Timeline" 
+              <img
+                src="/images/construction/200301-StreetView.jpg"
+                alt="Timeline"
                 className="w-full h-auto rounded-lg shadow-lg"
               />
             </div>
