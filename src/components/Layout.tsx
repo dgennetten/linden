@@ -26,7 +26,7 @@ const Layout: React.FC = () => {
               <p className="text-gray-300">Fort Collins, Colorado</p>
             </div>
             <div className="text-sm text-gray-400">
-              © {new Date().getFullYear()} Historic Linden Street Property
+              site design & info: douglas@gennetten.com
             </div>
           </div>
         </div>
