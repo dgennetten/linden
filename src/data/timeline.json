@@ -47,11 +47,29 @@
     "name": "E E Watts, 2nd Hand Store",
     "description": "In the 1910-11 directory, E E Watts is listed as a second hand store at 253 Linden."
   },
-   {
+  {
     "startDate": "1914",
     "endDate": "1927",
     "name": "<name?> Bicycle Repair Shop",
     "description": "Bicycle Repair Shop in 1914 and 1927 photos. Name unknown."
+  },
+  {
+    "startDate": "1922",
+    "endDate": "1922",
+    "name": "(251 up) The Elkhorn Rooming House",
+    "description": "Vanderwark Elmer (Katherine) prop. The Elkhorn (listed as 249 Linden in the 1922 directory)."
+  },
+  {
+    "startDate": "1922",
+    "endDate": "1922",
+    "name": "Lloyd and Mayer Auto Co",
+    "description": "Lloyd and Mayer Auto Co, 253 Linden. Listed in the 1922 directory as a garage."
+  },
+  {
+    "startDate": "1925",
+    "endDate": "1925",
+    "name": "251 (up) Residents, 1925 Directory",
+    "description": "McCann Edith; McCann J L; "
   },
   {
     "startDate": "1936",
