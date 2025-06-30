@@ -184,5 +184,12 @@
     "endDate": "2025-05",
     "name": "The Reserve by Old Elk",
     "description": "A local distillery and tasting room."
+  },
+  {
+    "startDate": "2025-06",
+    "endDate": "",
+    "name": "Sweet Heart Winery Tasting Room",
+    "description": "A Top 10 USA winery -- thescoutguide.com/best-wineries-in-the-us/"
   }
+
 ]
