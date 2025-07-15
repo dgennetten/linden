@@ -47,11 +47,29 @@
     "name": "E E Watts, 2nd Hand Store",
     "description": "In the 1910-11 directory, E E Watts is listed as a second hand store at 253 Linden."
   },
-   {
+  {
     "startDate": "1914",
     "endDate": "1927",
     "name": "<name?> Bicycle Repair Shop",
     "description": "Bicycle Repair Shop in 1914 and 1927 photos. Name unknown."
+  },
+  {
+    "startDate": "1922",
+    "endDate": "1922",
+    "name": "(251 up) The Elkhorn Rooming House",
+    "description": "Vanderwark Elmer (Katherine) prop. The Elkhorn (listed as 249 Linden in the 1922 directory)."
+  },
+  {
+    "startDate": "1922",
+    "endDate": "1922",
+    "name": "Lloyd and Mayer Auto Co",
+    "description": "Lloyd and Mayer Auto Co, 253 Linden. Listed in the 1922 directory as a garage."
+  },
+  {
+    "startDate": "1925",
+    "endDate": "1925",
+    "name": "251 (up) Residents, 1925 Directory",
+    "description": "McCann Edith; McCann J L; "
   },
   {
     "startDate": "1936",
@@ -72,6 +90,18 @@
     "description": "Listed in the 1940 city directory as a garage."
   },
   {
+    "startDate": "1948",
+    "endDate": "1948",
+    "name": "251 (up) Residents, 1948 Directory",
+    "description": "Buchanan V O r 249 Linden"
+  },
+   {
+    "startDate": "1952",
+    "endDate": "1952",
+    "name": "251 (up) Residents, 1952 Directory",
+    "description": "Buchanan V O Retired Apt 2, Depew James M Retired 249 Linden; Ballensky Dick (Cora-wtrs) ditch rider Water Board, Clark James H Retired, 251 Linden"
+  },
+  {
     "startDate": "1959",
     "endDate": "1969",
     "name": "Summers Auto Repair. ",
@@ -88,6 +118,12 @@
     "endDate": "1997",
     "name": "Private Storage - Bill and Mona Hulsebus",
     "description": "Bill worked on old cars and stored them in the garage. Bill and Mona rented then inherited the property from the estate of Lorraine Quinn"
+  },
+  {
+    "startDate": "1997-01",
+    "endDate": "1998-02",
+    "name": "Ownership Change",
+    "description": "Warrantee Deed dated 10-JAN-97 transfers ownership from William and Mona Hulsebus to K. Douglas Gennetten."
   },
   {
     "startDate": "1997-11",
@@ -148,5 +184,12 @@
     "endDate": "2025-05",
     "name": "The Reserve by Old Elk",
     "description": "A local distillery and tasting room."
+  },
+  {
+    "startDate": "2025-06",
+    "endDate": "",
+    "name": "Sweet Heart Winery Tasting Room",
+    "description": "A Top 10 USA winery -- thescoutguide.com/best-wineries-in-the-us/"
   }
+
 ]
